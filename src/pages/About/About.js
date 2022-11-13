@@ -50,7 +50,7 @@ function About ()  {
                             <div className="service__meta">
                                 <h1 className="service__text">Create Blogs</h1>
                                 <p className="p service__text p__color">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    Easily create blogs with multimedia option.
                                 </p>
                                 {/* <p className="p service__text p__color">
                                 nemo asperiores fugiat et quas deserunt ?
@@ -79,9 +79,9 @@ function About ()  {
                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Blogger</h1>
+                                <h1 className="service__text">Categories</h1>
                                 <p className="p service__text p__color">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Learn from the depth of contents on varoius topics by choosing specific category. 
                                 </p>
                                 {/* <p className="p service__text p__color">
                                 nemo asperiores fugiat et quas deserunt?
@@ -112,9 +112,9 @@ function About ()  {
                 </svg>
                             </div>
                             <div className="service__meta">
-                                <h1 className="service__text">Blogger</h1>
+                                <h1 className="service__text">User Account</h1>
                                 <p className="p service__text p__color">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Create user account to have endless access to varoius contents.
                                 </p>
                                 {/* <p className="p service__text p__color">
                                 nemo asperiores fugiat et quas deserunt?

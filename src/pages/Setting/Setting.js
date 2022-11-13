@@ -14,7 +14,7 @@ function Setting() {
             <label>Profile Picture</label>
             <div className="settingsPP">
               <img
-                src="https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/pxzr4hqfklhsuhfda55w/andrew-tate?fimg-ssr-default"
+                src="https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/9/18140/files/2015/01/professional-woman-4.jpg"
                 alt=""
               />
               <label htmlFor="fileInput">
@@ -28,13 +28,13 @@ function Setting() {
               />
             </div>
             <label>Username</label>
-            <input type="text" placeholder="John" name="name" />
+            <input type="text" placeholder="Your Name" name="name" />
             <label>Email</label>
-            <input type="email" placeholder="johncena@gmail.com" name="email" />
+            <input type="email" placeholder="username@gmail.com" name="email" />
             <label>Password</label>
             <input type="password" placeholder="Password" name="password" />
             <label>University</label>
-            <input type="text" placeholder="University of Engineering and Management" name="university" />
+            <input type="text" placeholder="College Name" name="university" />
             <button className="settingsSubmitButton" type="submit">
               Update
             </button>

@@ -34,7 +34,7 @@ function Login() {
           placeholder="Enter your password..."
         />
       <ForgotPassword>Forgot Password ?</ForgotPassword>
-        <button className="loginButton">Login</button>
+        <button className="loginButton">Or Sign Up using</button>
         <IconsContainer className="iconscontainer">
           <Icon color={GoogleBackground}>
             <FaGoogle />

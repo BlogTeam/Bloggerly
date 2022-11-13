@@ -1,10 +1,8 @@
-import "./Login.css";
+import "./login.css";
 import { useNavigate } from 'react-router-dom';
 import styled from "styled-components";
 import { FaFacebookF, FaGoogle, FaGithub } from "react-icons/fa";
 import Icon from "../../components/LoginComponents/Icon";
-
-
 
 function Login() {
   const FacebookBackground =
@@ -17,7 +15,7 @@ function Login() {
   const routeChange = () =>{ 
     let path = `../register`; 
     navigate(path);
-  }
+}
   
   return (
     <div className="login">

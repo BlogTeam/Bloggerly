@@ -1,45 +1,47 @@
 .navbar {
-    padding: 1rem 1rem;
+  position: relative;
+  padding: 1rem 1rem;
 }
 
-.topImg{
-    margin-top: -5px;
-    height: 45px;
-    width: 45px;
-    border-radius: 50%;
-    object-fit: contain;
+.topImg {
+  margin-top: -5px;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  object-fit: contain;
 }
 
 .navbarList {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    position: relative;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  position: relative;
 }
 
 .navbarList__leftItem {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .navbarList__rightItem {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    right: 0;
-    top: 2px;   
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  right: 0;
+  top: 2px;
 }
 
 .navbar__Items {
-    padding: 0px 2rem;
-    font-size: 1.5rem;
-    transform: scale(0.9);
-    transition: all .2s;
+  padding: 0px 2rem;
+  font-size: 1.5rem;
+  transform: scale(0.9);
+  transition: all 0.2s;
 }
 
+
 /* Hover Animation */
-.navbar__Items:hover{
-    /* color: white; */
-    cursor: pointer;
-    transform: scale(1.2);
+.navbar__Items:hover {
+  /* color: white; */
+  cursor: pointer;
+  transform: scale(1.2);
 }

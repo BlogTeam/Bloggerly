@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 .search {
-  width: 100%;
+  width: 115%;  
   position: relative;
   display: flex;
 }
 
 .searchTerm {
-  width: 100%;
+  width: 100%;  
   border: 3px solid #e6e2e2;
   border-right: none;
   padding: 5px;
@@ -88,6 +88,7 @@
   .sidebarList {
     list-style-type: none;
     margin-bottom: 30px;
+    margin-left: 60px;
   }
   
   .sidebarListItem {

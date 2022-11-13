@@ -14,16 +14,18 @@ function Post() {
       <div className="postInfo">
         <div>
         <div className="postCardFeatures">
-          <span className="postCardFeatures__tag">Tech</span>
-          <span className="postCardFeatures__time">3mins</span>
+          <span className="postCardFeatures__tag">Art</span>
+          <span className="postCardFeatures__time">7mins</span>
         </div>
 
           <div className="postTitle">12 Powerful Design Tools for Front-End Developers</div>
           <div className="postDate">2 hours ago</div>
           <p className="postDesc">
-          An eye-catching design is an effective way to keep the visitors’ attention. I’ve compiled some of the most useful tools that will help you to improve your design workflow.
+          A friend of mine asked me if I would paint a version of the above artwork for him today. Unfortunately, I told him that, while I would love to, I can’t.
 
-          With this collection, you will be able to make sketches for your designs, pick color palettes, create gradients, add shadows, make animations, include custom backgrounds, find proper illustrations, experiment with different layout systems and components, and much more. 
+          I was telling him I recently had an art show and he told me he’d always loved the above painting, but it sold before he could buy it.
+
+          I would love to create another version for him, but my hands no longer work the way they used to.
           </p>
         </div>
       </div>
